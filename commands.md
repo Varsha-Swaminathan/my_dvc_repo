@@ -78,4 +78,4 @@ Run dvc push again — the browser prompt should now work without being blocked.
 > dvc config --list 
 ##### This command shows the final merged configuration that DVC is actually using (config + config.local together).
 
-
+> list <repo url> <dir path>
